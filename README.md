@@ -1,7 +1,7 @@
 # Kivymdate 
 Persian(Jalali) calender for KivyMD/Kivy,
-[Pythoniha Development Team](https://www.Pythoniha.ir)
-#Screenshut
+
+Screenshut
 
 ![alt text](https://raw.githubusercontent.com/Pythoniha/Kivymdate/main/date.png "Logo Title Text 1")
 
