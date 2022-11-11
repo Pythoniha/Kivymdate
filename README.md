@@ -54,8 +54,8 @@ Feel free to open issues and ask for help.
 
 
 Update Feature :
-* Added new Sahel.ttf font
-- Fixed the error of not displaying the months
++ Added new Sahel.ttf font
++ Fixed the error of not displaying the months
 + Starting weekdays from Saturday instead of Friday
 + And More Bug Fix ...
 
