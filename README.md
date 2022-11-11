@@ -49,7 +49,7 @@ Feel free to open issues and ask for help.
 
 #Screenshut
 
-![alt text](https://github.com/Pythoniha/Kivymdate/date.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Pythoniha/Kivymdate/main/date.png "Logo Title Text 1")
 
 
 
