@@ -50,3 +50,15 @@ Feel free to open issues and ask for help.
 
 
 [Pythoniha Development Team](https://www.Pythoniha.ir)
+
+
+
+
+Update Feature :
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+
+Tnx For :
+[Main Programmer](https://github.com/quitegreensky/persiancalender_kivy)
