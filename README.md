@@ -1,6 +1,10 @@
 # Kivymdate 
 Persian(Jalali) calender for KivyMD/Kivy,
 [Pythoniha Development Team](https://www.Pythoniha.ir)
+#Screenshut
+
+![alt text](https://raw.githubusercontent.com/Pythoniha/Kivymdate/main/date.png "Logo Title Text 1")
+
 Installation
 Use the package manager pip to install package:
 
@@ -46,13 +50,6 @@ TestApp().run()
 
 Contributing
 Feel free to open issues and ask for help.
-
-#Screenshut
-
-![alt text](https://raw.githubusercontent.com/Pythoniha/Kivymdate/main/date.png "Logo Title Text 1")
-
-
-
 
 Update Feature :
 + Added new Sahel.ttf font
