@@ -1,19 +1,21 @@
 # Kivymdate
-Persian(Jalali) calender for KivyMD/Kivy
+##Persian(Jalali) calender for KivyMD/Kivy
 
-Installation
-Use the package manager pip to install package:
+#Installation
+##Use the package manager pip to install package:
 
+```python
 pip install git+https://github.com/quitegreensky/persiancalender_kivy.git
+```
+#In this case you must have the following requirements in your buildozer.spec:
 
-In this case you must have the following requirements in your buildozer.spec:
-
+```python
 requirements =  kivy,kivymd, git+https://github.com/quitegreensky/persiancalender_kivy.git, git+https://github.com/MeirKriheli/python-bidi.git, git+https://github.com/mhajiloo/persiantools.git
+```
+##Also you should copy and replace fonts folder with your existing KivyMD's fonts folders.
 
-Also you should copy and replace fonts folder with your existing KivyMD's fonts folders.
-
-Usage
-
+#Usage
+```python
 from kivymd.app import MDApp
 from kivy.lang.builder import Builder 
 from pcalender.datepicker_fa import DatePickerFa
@@ -40,6 +42,10 @@ class TestApp(MDApp):
         return toast(date)
 
 TestApp().run()
+```
 
 Contributing
 Feel free to open issues and ask for help.
+
+
+[Pythoniha Development Team](https://www.Pythoniha.ir)
