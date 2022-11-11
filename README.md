@@ -1,4 +1,5 @@
 # Kivymdate 
+[Pythoniha Development Team](https://www.Pythoniha.ir)
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 Persian(Jalali) calender for KivyMD/Kivy
 
@@ -49,16 +50,17 @@ Contributing
 Feel free to open issues and ask for help.
 
 
-[Pythoniha Development Team](https://www.Pythoniha.ir)
+
 
 
 
 
 Update Feature :
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
+* Added new Sahel.ttf font
+- Fixed the error of not displaying the months
++ Starting weekdays from Saturday instead of Friday
++ And More Bug Fix ...
 
 Tnx For :
 [Main Programmer](https://github.com/quitegreensky/persiancalender_kivy)
+[Pythoniha Development Team](https://www.Pythoniha.ir)
