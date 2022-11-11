@@ -1,20 +1,20 @@
-# Kivymdate
-##Persian(Jalali) calender for KivyMD/Kivy
+# Kivymdate [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+Persian(Jalali) calender for KivyMD/Kivy
 
-#Installation
-##Use the package manager pip to install package:
-
-```python
-pip install git+https://github.com/quitegreensky/persiancalender_kivy.git
-```
-#In this case you must have the following requirements in your buildozer.spec:
+Installation
+Use the package manager pip to install package:
 
 ```python
-requirements =  kivy,kivymd, git+https://github.com/quitegreensky/persiancalender_kivy.git, git+https://github.com/MeirKriheli/python-bidi.git, git+https://github.com/mhajiloo/persiantools.git
+pip install git+https://github.com/Pythoniha/Kivymdate.git
 ```
-##Also you should copy and replace fonts folder with your existing KivyMD's fonts folders.
+In this case you must have the following requirements in your buildozer.spec:
 
-#Usage
+```python
+requirements =  kivy,kivymd, git+https://github.com/Pythoniha/Kivymdate.git, git+https://github.com/MeirKriheli/python-bidi.git, git+https://github.com/mhajiloo/persiantools.git
+```
+Also you should copy and replace fonts folder with your existing KivyMD's fonts folders.
+
+Usage
 ```python
 from kivymd.app import MDApp
 from kivy.lang.builder import Builder 
