@@ -1,7 +1,7 @@
 # Kivymdate 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"--
---Persian(Jalali) calender for KivyMD/Kivy
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+--Persian(Jalali) calender for KivyMD/Kivy--
 [Pythoniha Development Team](https://www.Pythoniha.ir)
 Installation
 Use the package manager pip to install package:
