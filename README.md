@@ -1,4 +1,5 @@
-# Kivymdate [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+# Kivymdate 
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 Persian(Jalali) calender for KivyMD/Kivy
 
 Installation
